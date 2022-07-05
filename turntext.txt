@@ -1,0 +1,1 @@
+It is now time for {name} to go. Here's what we have so far {word}.
